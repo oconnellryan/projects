@@ -2,7 +2,7 @@ docs_list_title: someName
 docs:
 
 - title: "NBA Ticket Pricing"
-  url: /01ticket-pricing/
+  url: /ticket-pricing/
 - title: "UFC Judging Analysis"
   url: /judging/
 
