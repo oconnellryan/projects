@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NBA Ticket Pricing
-nav_order: 1
+order: 1
 ---
 
 This project modeled NBA Arena Ticket Prices using 
