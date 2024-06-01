@@ -10,4 +10,4 @@ This project modeled UFC judging criteria
 
 
 Full Paper:
-[get the PDF]({{ site.url }}/assets/thesis.pdf)
+[get the PDF]({{ oconnellryan.github.io/projects }}/assets/thesis.pdf)
