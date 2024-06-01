@@ -1,6 +1,6 @@
 # Site settings
 title: "Ryan O'Connell's Projects"
-author: "Ryan O'Connell"
+author:
   name: Ryan OConnell
   email: ryan.oconnell416@gmail.com
 description: "Projects I have done"
