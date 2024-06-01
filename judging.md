@@ -1,7 +1,8 @@
 ---
 layout: page
 title: UFC Judging Analysis
-order: 2
+Nav_include : yes
+Nav_order : 2
 ---
 
 This project modeled UFC judging criteria
