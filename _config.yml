@@ -1,0 +1,9 @@
+# Site settings
+title: "Ryan O'Connell's Projects"
+author:
+  name: Ryan OConnell
+  email: ryan.oconnell416@gmail.com
+description: "Projects I have done"
+
+# Build settings
+remote_theme: jekyll/minima
