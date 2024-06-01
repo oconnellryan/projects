@@ -1,3 +1,6 @@
+docs_list_title: someName
+docs:
+
 - title: "NBA Ticket Pricing"
   url: /categories/
 - title: "UFC Judging Analysis"
