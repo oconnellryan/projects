@@ -7,6 +7,6 @@ In this project I created a predictive model of NBA ticket prices. 2 seasosns of
 
 ##Result Highlights
 
-![Image](/assets/images/arena_map.png)  ![Image](/assets/images/lower_bowl_model.png)
+![Image](/assets/images/arena_map.png)  ![Image](/assets/images/lower_bowl_model.png) {: width="250" }
 
 File
